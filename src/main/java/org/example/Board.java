@@ -2,6 +2,7 @@ package org.example;
 
 import java.util.ArrayList;
 
+
 /**
  * The field on which the game is played.
  */
