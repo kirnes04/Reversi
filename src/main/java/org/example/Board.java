@@ -11,11 +11,11 @@ public class Board {
 
     private static final char EMPTY_CELL = ' ';
 
-    protected static final char BLACK_CHIP = '●';
+    protected static final char BLACK_CHIP = 'b';
 
-    protected static final char WHITE_CHIP = '○';
+    protected static final char WHITE_CHIP = 'w';
 
-    private static final char POSSIBLE_CHIP = '◌';
+    private static final char POSSIBLE_CHIP = 'p';
 
     protected final char[][] grid;
 
